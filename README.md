@@ -22,13 +22,13 @@
 </div>
 
 <strong>subnautica</strong> <hr><p>é um jogo de ação e aventura
-desenvolvido e publicado pela <a href="Unknown Worlds Entertainment.html"> Unknown Worlds Entertainment.</a>
+desenvolvido e publicado pela Unknown Worlds Entertainment.
 Os jogadores controlam um chefe de manurenção de sistema não essensciais que é o unico sobrevivente
 de um acidente de nave espacial em um planeta alienígena. Eles são livres para explorar o planeta oceânico.
-Os principais objetivos são encontrar recursos essenciais, sobreviver à <a href="flora.html">flora</a> e <a href="fauna.html">fauna</a> locais e encontrar uma
+Os principais objetivos são encontrar recursos essenciais, sobreviver à flora e fauna locais e encontrar uma
 maneira de escapar do planeta.</p>
 
-<p>Subnautica foi lançado em acesso antecipado para Windows em dezembro de 2014, macOS em junho de 2015 e para Xbox One em maio de 2016. Foi lançado fora do acesso antecipado em janeiro de 2018 para macOS e Windows, com versões para PlayStation 4 e Xbox One em dezembro.2018,as versões físicas do console foram publicadas pela <a href="Gearbox Publishing.html">Gearbox Publishing</a>.As versões Nintendo Switch, PlayStation 5 e Xbox Series X/S foram lançadas em maio de 2021.Em janeiro de 2020, mais de cinco milhões de cópias foram vendidas.Uma sequência,Subnautica:Below Zero, foi lançada em 14 de maio de 2021.</p>
+<p>Subnautica foi lançado em acesso antecipado para Windows em dezembro de 2014, macOS em junho de 2015 e para Xbox One em maio de 2016. Foi lançado fora do acesso antecipado em janeiro de 2018 para macOS e Windows, com versões para PlayStation 4 e Xbox One em dezembro.2018,as versões físicas do console foram publicadas pela Gearbox Publishing.As versões Nintendo Switch, PlayStation 5 e Xbox Series X/S foram lançadas em maio de 2021.Em janeiro de 2020, mais de cinco milhões de cópias foram vendidas.Uma sequência,Subnautica:Below Zero, foi lançada em 14 de maio de 2021.</p>
 
 <strong>Jogabilidade</strong>
 
